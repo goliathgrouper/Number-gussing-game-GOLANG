@@ -1,2 +1,13 @@
 # Number-gussing-game-GOLANG
-Blablabla
+Run using:
+```bash  
+    >> go run game.go
+```
+Or:
+```bash
+    >> go build game.go
+    >> ./game.exe
+```
+> [!IMPORTANT]
+> Enter anything but a number -> program exits with error
+
