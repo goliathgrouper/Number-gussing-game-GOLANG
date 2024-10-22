@@ -1,4 +1,4 @@
-# Number-gussing-game-GOLANG
+# Number gussing game. Made with [Golang :beaver:](https://go.dev/)
 Run using:
 ```bash  
 >> go run game.go
